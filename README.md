@@ -16,7 +16,7 @@ My library for competitive programming can be found at ![https://github.com/Aere
 
 ## Capture the Flag
 
-I mostly solves cryptography challenges.
+I mostly solve cryptography challenges.
 
 My library can be found at ![https://github.com/Aeren1564/CTF](https://github.com/Aeren1564/CTF)
 
