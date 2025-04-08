@@ -1,8 +1,12 @@
+## About Me
+
 Hello, I am Aeren.
 
 I enjoy competing on various online competitions.
 
 ## Competitive Programming
+
+I am active on the ![GF discord server](https://discord.gg/sADt3gRQBR), which is intended for discussing competitive programming contests.
 
 My library for competitive programming can be found at ![https://github.com/Aeren1564/CP](https://github.com/Aeren1564/CP)
 
