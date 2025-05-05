@@ -18,9 +18,11 @@ My library for competitive programming can be found at [https://github.com/Aeren
 
 I mostly solve cryptography challenges.
 
-My library can be found at [https://github.com/Aeren1564/CTF](https://github.com/Aeren1564/CTF)
+My library can be found at [https://github.com/Aeren1564/CTF_Library](https://github.com/Aeren1564/CTF_Library)
 
 [CTFTime: Aeren](https://ctftime.org/user/194646)
+
+[Dreamhack: Aeren](https://dreamhack.io/users/74720/)
 
 ## Quantum Competitive Programming
 
